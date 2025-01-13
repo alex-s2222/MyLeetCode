@@ -10,26 +10,28 @@ An input string is valid if:
 
 Example 1:
 
-```
+```text
 Input: s = "()"
 Output: true
 ```
 
 Example 2:
 
-```
+```text
 Input: s = "()[]{}"
 Output: true
 ```
 
 Example 3:
-```
+
+```text
 Input: s = "(]"
 Output: false
 ```
 
 Example 4:
-```
+
+```text
 Input: s = "([])"
 Output: true
 ```
